@@ -1,2 +1,2 @@
 # Graph
-This Section consist code of Graph in c++.
+This Section consist code for Question related to graph in c++.
